@@ -26,7 +26,7 @@ The goal of MediGenius is to help users access preliminary healthcare guidance a
 
 ## Tech Stack
 **Frontend:**
-- ReactJS / Streamlit
+- ReactJS
 
 **Backend:**
 - Flask (Python)
@@ -52,7 +52,3 @@ The goal of MediGenius is to help users access preliminary healthcare guidance a
 5. Result is displayed to the user on the UI.
 
 ---
-
-## Installation & Setup
-
-### Clone the Repository
